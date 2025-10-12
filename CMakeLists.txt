@@ -16,3 +16,4 @@ set(CMAKE_AUTOUIC ON)   # 自动处理 Qt 界面文件（.ui）
 
 add_subdirectory(ChineseMultiplicationTable)
 add_subdirectory(Calculator)
+add_subdirectory(NoteBook)
